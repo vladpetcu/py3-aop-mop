@@ -10,6 +10,9 @@ debugger_break_point = None
 
 class AopDebugger:
     ''' AOP Debugger
+
+        Enable/disable its usage by changing the `diagnose` member value
+        If enabled, use the `c` key to continue/step over the breakpoints
     '''
     
     _diagnose = False

@@ -4,6 +4,8 @@ from colorama import Fore
 
 class AopColorsDecorator:
     ''' AOP Colors Decorator - decorates classes print outputs with different colors
+
+        Enable/disable its usage by changing the `active` member value
     '''
 
     _active = True
