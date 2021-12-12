@@ -8,7 +8,6 @@ Python 3.8 and/or SageMath 9.4 are recommended for using this modules
 * [SageMath installation guide](https://doc.sagemath.org/html/en/installation/)  
 * [Python installation guide](https://docs.python.org/3.8/)  
 
-
 ## Running with Python
 Run the src/main_test.py
 ```
@@ -20,5 +19,4 @@ $ python3 main_test.py
 Run the src/main_test.ipynb notebook from VSCode or open it with Jupyter using i.e.
 ```
 $ sage --notebook=jupyter
-
 ```
